@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi1047&label=Profile%20views&color=0e75b6&style=flat" alt="khushi1047" /> </p>
 
-- 🌱 I’m currently learning **Full stack development and DSA**
+- 🌱 A **Full stack developer and DSA Enthusiast**
 
 - 👩‍💻All of my projects are available at [https://github.com/khushi1047](https://github.com/khushi1047)
 
