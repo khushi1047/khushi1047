@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science student with a strong interest in **software development**
-- 💻 Skilled in **Full Stack Development (MERN + Python-based frameworks)**
+- 💻 Skilled in **Full Stack Development**
 - 🧠 Passionate about **Data Structures & Algorithms**
 - 🚀 Focused on building **scalable, user-friendly applications**
 - 📚 Continuously learning and improving through real-world projects
