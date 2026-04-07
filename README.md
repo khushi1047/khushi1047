@@ -41,14 +41,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi1047&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=khushi1047&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=khushi1047&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1047&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushi1047&theme=tokyo-night" />
 
 ---
 
