@@ -25,35 +25,29 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-C • C++ • Java • Python • JavaScript • TypeScript • Swift  
+**Languages:** C, C++, Java, Python, JavaScript, TypeScript, Swift  
 
-### 🌐 Frontend
-HTML • CSS • React • Next.js • Tailwind CSS • Bootstrap • Redux  
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, Redux  
 
-### ⚙️ Backend
-Node.js • Express.js • FastAPI  
+**Backend:** Node.js, Express.js, RestApi, Spring Boot
 
-### 🗄️ Databases
-MongoDB • MySQL  
+**Databases:** MongoDB, MySQL , PostgresQL
 
-### ☁️ Cloud & Tools
-AWS • Azure • Firebase • Vercel • Netlify • Render • Oracle  
+**Cloud & Tools:** AWS, Firebase, Vercel, Netlify, Render, Docker
 
-### 🎨 Design
-Figma • Canva  
+**Design:** Figma, Canva  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi1047&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi1047&show_icons=true&theme=tokyonight&cache_seconds=86400" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=khushi1047&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1047&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1047&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
