@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
